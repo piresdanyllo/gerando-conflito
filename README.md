@@ -1,0 +1,1 @@
+Repositório para a prática de conflitos e como resolver
